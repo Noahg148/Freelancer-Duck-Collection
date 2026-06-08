@@ -21,7 +21,7 @@
 								},
 								"position": {
 									"x": 1.75,
-									"y": 0.5,
+									"y": 0.578947,
 									"z": 1.02907395362854
 								}
 							}
@@ -66,7 +66,7 @@
 								},
 								"position": {
 									"x": 1.75,
-									"y": 0,
+									"y": 0.194737,
 									"z": 1.02907395362854
 								}
 							}
@@ -111,7 +111,7 @@
 								},
 								"position": {
 									"x": 1.33333333333333,
-									"y": 0.5,
+									"y": 0.578947,
 									"z": 1.02907395362854
 								}
 							}
@@ -156,7 +156,7 @@
 								},
 								"position": {
 									"x": 1.33333333333333,
-									"y": 0,
+									"y": 0.194737,
 									"z": 1.02907395362854
 								}
 							}
@@ -201,7 +201,7 @@
 								},
 								"position": {
 									"x": 0.91666666666667,
-									"y": 0.5,
+									"y": 0.578947,
 									"z": 1.02907395362854
 								}
 							}
@@ -246,7 +246,7 @@
 								},
 								"position": {
 									"x": 0.91666666666667,
-									"y": 0,
+									"y": 0.194737,
 									"z": 1.02907395362854
 								}
 							}
@@ -291,7 +291,7 @@
 								},
 								"position": {
 									"x": 0.5,
-									"y": 0.5,
+									"y": 0.578947,
 									"z": 1.02907395362854
 								}
 							}
@@ -336,7 +336,7 @@
 								},
 								"position": {
 									"x": 0.5, 
-									"y": 0,
+									"y": 0.194737,
 									"z": 1.02907395362854
 								}
 							}
@@ -381,7 +381,7 @@
 								},
 								"position": {
 									"x": 0.08333333333333, 
-									"y": 0.5,
+									"y": 0.578947,
 									"z": 1.02907395362854
 								}
 							}
@@ -426,7 +426,7 @@
 								},
 								"position": {
 									"x": 0.08333333333333,
-									"y": 0,
+									"y": 0.194737,
 									"z": 1.02907395362854
 								}
 							}
@@ -471,7 +471,7 @@
 								},
 								"position": {
 									"x": -0.33333333333333, 
-									"y": 0.5,
+									"y": 0.578947,
 									"z": 1.02907395362854
 								}
 							}
@@ -516,7 +516,7 @@
 								},
 								"position": {
 									"x": -0.33333333333333,
-									"y": 0,
+									"y": 0.194737,
 									"z": 1.02907395362854
 								}
 							}
@@ -561,7 +561,7 @@
 								},
 								"position": {
 									"x": -0.75,
-									"y": 0.5,
+									"y": 0.578947,
 									"z": 1.02907395362854
 								}
 							}
@@ -606,7 +606,7 @@
 								},
 								"position": {
 									"x": -0.75,
-									"y": 0,
+									"y": 0.194737,
 									"z": 1.02907395362854
 								}
 							}
@@ -631,7 +631,232 @@
 					}
 				}
 			]
-		}				
+		},
+		{
+			"AddEntity": [
+				"cafe6c95b2f93bac",
+				{
+					"parent": "bdd2f3ef19f86bbb",
+					"name": "Item_Pomada_Duck",
+					"factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": 0,
+									"y": 0,
+									"z": -90
+								},
+								"position": {
+									"x": 1.33333333333333,
+									"y": -0.189474,
+									"z": 1.02907395362854
+								}
+							}
+						},
+						"repositoryId": {
+							"type": "ZGuid",
+							"value": "a185b8ab-7096-4872-8bc5-c0387137edc4"
+						},
+						"anyTrue": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bSpawnOnStart": {
+							"type": "bool",
+							"value": true
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "51f7e79b5efed557",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6c95b2f93bad",
+				{
+					"parent": "bdd2f3ef19f86bbb",
+					"name": "Item_Banger_Duck",
+					"factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": 0,
+									"y": 0,
+									"z": -90
+								},
+								"position": {
+									"x": 0.91666666666667,
+									"y": -0.189474,
+									"z": 1.02907395362854
+								}
+							}
+						},
+						"repositoryId": {
+							"type": "ZGuid",
+							"value": "2025c7e3-aefe-4fa6-8ce1-35dcde429eaf"
+						},
+						"anyTrue": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bSpawnOnStart": {
+							"type": "bool",
+							"value": true
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "51f7e79b5efed557",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6c95b2f93bae",
+				{
+					"parent": "bdd2f3ef19f86bbb",
+					"name": "Item_Vuvuzela_Duck",
+					"factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": 0,
+									"y": 0,
+									"z": -90
+								},
+								"position": {
+									"x": 0.5,
+									"y": -0.189474,
+									"z": 1.02907395362854
+								}
+							}
+						},
+						"repositoryId": {
+							"type": "ZGuid",
+							"value": "de55dbf0-88ce-4446-8750-286b4ae367d1"
+						},
+						"anyTrue": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bSpawnOnStart": {
+							"type": "bool",
+							"value": true
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "51f7e79b5efed557",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6c95b2f93baf",
+				{
+					"parent": "bdd2f3ef19f86bbb",
+					"name": "Item_Bowtie_Duck",
+					"factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": 0,
+									"y": 0,
+									"z": -90
+								},
+								"position": {
+									"x": 0.08333333333333,
+									"y": -0.189474,
+									"z": 1.02907395362854
+								}
+							}
+						},
+						"repositoryId": {
+							"type": "ZGuid",
+							"value": "4405f83c-93f8-454b-8aa9-25507647a151"
+						},
+						"anyTrue": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bSpawnOnStart": {
+							"type": "bool",
+							"value": true
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "51f7e79b5efed557",
+							"postInit": true
+						}
+					}
+				}
+			]
+		},
+		{
+			"AddEntity": [
+				"cafe6c95b2f93bbf",
+				{
+					"parent": "bdd2f3ef19f86bbb",
+					"name": "Item_Geforce_Duck",
+					"factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+					"blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": 0,
+									"y": 0,
+									"z": -90
+								},
+								"position": {
+									"x": -0.33333333333333,
+									"y": -0.189474,
+									"z": 1.02907395362854
+								}
+							}
+						},
+						"repositoryId": {
+							"type": "ZGuid",
+							"value": "21b3e0d9-f5c6-4006-8d5e-37af7bf39069"
+						},
+						"anyTrue": {
+							"type": "bool",
+							"value": true
+						},
+						"m_bSpawnOnStart": {
+							"type": "bool",
+							"value": true
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "51f7e79b5efed557",
+							"postInit": true
+						}
+					}
+				}
+			]
+		}					
 	],
 	"patchVersion": 6
 }
