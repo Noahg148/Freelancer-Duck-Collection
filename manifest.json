@@ -1,5 +1,5 @@
 {
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"id": "Noahg148.FreelancerDuckCollection",
 	"name": "Freelancer Duck Collection",
 	"description": "Spawns ducks on the supplier desk",
@@ -1407,6 +1407,366 @@
             "enabledByDefault": false,
             "image": "0_images/duck.png",
 			"contentFolders": ["19_proximity_duck_mkii"]
-		}
+		},
+        {
+            "group": "The Muay Thai Duck - Gear Capacity",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_capacity/0"]
+        },
+        {
+            "group": "The Muay Thai Duck - Gear Capacity",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_capacity/1"]
+        },
+        {
+            "group": "The Muay Thai Duck - Gear Capacity",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_capacity/2"]
+        },
+        {
+            "group": "The Muay Thai Duck - Gear Capacity",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_capacity/3"]
+        },
+        {
+            "group": "The Muay Thai Duck - Rarity",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_rarity/0"]
+        },
+        {
+            "group": "The Muay Thai Duck - Rarity",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_rarity/1"]
+        },
+        {
+            "group": "The Muay Thai Duck - Rarity",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_rarity/2"]
+        },
+        {
+            "group": "The Muay Thai Duck - Rarity",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_rarity/3"]
+        },
+        {
+            "group": "The Muay Thai Duck - Rarity",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["21_pomada_duck_rarity/4"]
+        },
+        {
+            "group": "The Banger Duck - Gear Capacity",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_capacity/0"]
+        },
+        {
+            "group": "The Banger Duck - Gear Capacity",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_capacity/1"]
+        },
+        {
+            "group": "The Banger Duck - Gear Capacity",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_capacity/2"]
+        },
+        {
+            "group": "The Banger Duck - Gear Capacity",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_capacity/3"]
+        },
+        {
+            "group": "The Banger Duck - Rarity",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_rarity/0"]
+        },
+        {
+            "group": "The Banger Duck - Rarity",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_rarity/1"]
+        },
+        {
+            "group": "The Banger Duck - Rarity",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_rarity/2"]
+        },
+        {
+            "group": "The Banger Duck - Rarity",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_rarity/3"]
+        },
+        {
+            "group": "The Banger Duck - Rarity",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["22_banger_duck_rarity/4"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Gear Capacity",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_capacity/0"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Gear Capacity",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_capacity/1"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Gear Capacity",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_capacity/2"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Gear Capacity",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_capacity/3"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Rarity",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_rarity/0"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Rarity",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_rarity/1"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Rarity",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_rarity/2"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Rarity",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_rarity/3"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Rarity",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["23_vuvuzela_duck_rarity/4"]
+        },
+        {
+            "group": "The Bowtie Duck - Gear Capacity",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_capacity/0"]
+        },
+        {
+            "group": "The Bowtie Duck - Gear Capacity",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_capacity/1"]
+        },
+        {
+            "group": "The Bowtie Duck - Gear Capacity",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_capacity/2"]
+        },
+        {
+            "group": "The Bowtie Duck - Gear Capacity",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_capacity/3"]
+        },
+        {
+            "group": "The Bowtie Duck - Rarity",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_rarity/0"]
+        },
+        {
+            "group": "The Bowtie Duck - Rarity",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_rarity/1"]
+        },
+        {
+            "group": "The Bowtie Duck - Rarity",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_rarity/2"]
+        },
+        {
+            "group": "The Bowtie Duck - Rarity",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_rarity/3"]
+        },
+        {
+            "group": "The Bowtie Duck - Rarity",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["24_bowtie_duck_rarity/4"]
+        },
+        {
+            "group": "The High Performance Duck - Gear Capacity",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_capacity/0"]
+        },
+        {
+            "group": "The High Performance Duck - Gear Capacity",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_capacity/1"]
+        },
+        {
+            "group": "The High Performance Duck - Gear Capacity",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_capacity/2"]
+        },
+        {
+            "group": "The High Performance Duck - Gear Capacity",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_capacity/3"]
+        },
+        {
+            "group": "The High Performance Duck - Rarity",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_rarity/0"]
+        },
+        {
+            "group": "The High Performance Duck - Rarity",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_rarity/1"]
+        },
+        {
+            "group": "The High Performance Duck - Rarity",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_rarity/2"]
+        },
+        {
+            "group": "The High Performance Duck - Rarity",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_rarity/3"]
+        },
+        {
+            "group": "The High Performance Duck - Rarity",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["25_geforce_duck_rarity/4"]
+        }
     ]	
 }
