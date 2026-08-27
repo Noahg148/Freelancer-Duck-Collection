@@ -1,14 +1,189 @@
 {
-	"version": "2.0.0",
+	"version": "3.0.0",
 	"id": "Noahg148.FreelancerDuckCollection",
 	"name": "Freelancer Duck Collection",
 	"description": "Spawns ducks on the supplier desk",
 	"authors": ["Noahg148"],
 	"frameworkVersion": "2.0.0",
-	"contentFolders": ["0_ducks"],
+	"contentFolders": ["0_default_ducks"],
 	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
     "updateCheck": "https://raw.githubusercontent.com/Noahg148/Hitman-3-Mod-Updater/refs/heads/main/FreelancerDuckCollection-updater.json",
     "options": [
+        {
+			"name": "Replace Proximity Explosive Duck with Proximity Explosive Duck MKII",
+			"type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/duck.png",
+			"contentFolders": ["0_proximity_duck_mkii"]
+		},
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The In-flu-ential Duck",
+			"type": "checkbox",
+            "enabledByDefault": true,
+            "image": "0_images/00C650FAEECA8A5C.png",
+			"contentFolders": ["1_filur_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Poker Face Duck",
+			"type": "checkbox",
+            "enabledByDefault": true,
+            "image": "0_images/00E568CAF2975223.png",
+			"contentFolders": ["2_casino_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Tracksuit Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/008DB231AEFD27BC.png",
+            "contentFolders": ["3_tracksuit_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Trophy Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/00991F114ED03B96.png",
+            "contentFolders": ["4_trophy_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Chainsaw Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/00E59BDA0E0D7C2F.png",
+            "contentFolders": ["5_chainsaw_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Proximity Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/000DA87003F63663.png",
+            "contentFolders": ["6_proximity_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The MKII Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Sunset Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/0023AE46CAE67446.png",
+            "contentFolders": ["8_sunset_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Creator Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/006EBABE0FA7010E.png",
+            "contentFolders": ["9_creator_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Showcase Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/00D69CFFE26A0073.png",
+            "contentFolders": ["10_showcase_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Dino Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/00C568279DCD0812.png",
+            "contentFolders": ["11_dino_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Dragon Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/000446D725147D19.png",
+            "contentFolders": ["12_dragon_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Neon Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/006C1FCBC94D9E68.png",
+            "contentFolders": ["13_neon_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Purple Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/008018587E014C1B.png",
+            "contentFolders": ["14_purple_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Pomada Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["15_pomada_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Banger Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["16_banger_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Vuvuzela Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["17_vuvuzela_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Bowtie Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["18_bowtie_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The High Performance Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["19_geforce_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The See-No-Evil Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Dank Duck",
+            "type": "checkbox",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck"]
+        },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
             "name": "0",
@@ -40,6 +215,30 @@
             "enabledByDefault": false,
             "image": "0_images/00C650FAEECA8A5C.png",
             "contentFolders": ["1_filur_duck_capacity/3"]
+        },
+        {
+            "group": "The In-flu-ential Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C650FAEECA8A5C.png",
+            "contentFolders": ["1_filur_duck_capacity/4"]
+        },
+        {
+            "group": "The In-flu-ential Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C650FAEECA8A5C.png",
+            "contentFolders": ["1_filur_duck_capacity/5"]
+        },
+        {
+            "group": "The In-flu-ential Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C650FAEECA8A5C.png",
+            "contentFolders": ["1_filur_duck_capacity/6"]
         },
         {
             "group": "The In-flu-ential Duck - Rarity",
@@ -114,6 +313,30 @@
             "contentFolders": ["2_casino_duck_capacity/3"]
         },
         {
+            "group": "The Poker Face Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00E568CAF2975223.png",
+            "contentFolders": ["2_casino_duck_capacity/4"]
+        },
+        {
+            "group": "The Poker Face Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00E568CAF2975223.png",
+            "contentFolders": ["2_casino_duck_capacity/5"]
+        },
+        {
+            "group": "The Poker Face Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00E568CAF2975223.png",
+            "contentFolders": ["2_casino_duck_capacity/6"]
+        },
+        {
             "group": "The Poker Face Duck - Rarity",
             "name": "No rarity",
             "type": "select",
@@ -184,6 +407,30 @@
             "enabledByDefault": false,
             "image": "0_images/008DB231AEFD27BC.png",
             "contentFolders": ["3_tracksuit_duck_capacity/3"]
+        },
+        {
+            "group": "The Tracksuit Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008DB231AEFD27BC.png",
+            "contentFolders": ["3_tracksuit_duck_capacity/4"]
+        },
+        {
+            "group": "The Tracksuit Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008DB231AEFD27BC.png",
+            "contentFolders": ["3_tracksuit_duck_capacity/5"]
+        },
+        {
+            "group": "The Tracksuit Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008DB231AEFD27BC.png",
+            "contentFolders": ["3_tracksuit_duck_capacity/6"]
         },
         {
             "group": "The Tracksuit Duck - Rarity",
@@ -258,6 +505,30 @@
             "contentFolders": ["4_trophy_duck_capacity/3"]
         },
         {
+            "group": "The Trophy Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00991F114ED03B96.png",
+            "contentFolders": ["4_trophy_duck_capacity/4"]
+        },
+        {
+            "group": "The Trophy Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00991F114ED03B96.png",
+            "contentFolders": ["4_trophy_duck_capacity/5"]
+        },
+        {
+            "group": "The Trophy Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00991F114ED03B96.png",
+            "contentFolders": ["4_trophy_duck_capacity/6"]
+        },
+        {
             "group": "The Trophy Duck - Rarity",
             "name": "No rarity",
             "type": "select",
@@ -328,6 +599,30 @@
             "enabledByDefault": false,
             "image": "0_images/00E59BDA0E0D7C2F.png",
             "contentFolders": ["5_chainsaw_duck_capacity/3"]
+        },
+        {
+            "group": "The Chainsaw Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00E59BDA0E0D7C2F.png",
+            "contentFolders": ["5_chainsaw_duck_capacity/4"]
+        },
+        {
+            "group": "The Chainsaw Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00E59BDA0E0D7C2F.png",
+            "contentFolders": ["5_chainsaw_duck_capacity/5"]
+        },
+        {
+            "group": "The Chainsaw Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00E59BDA0E0D7C2F.png",
+            "contentFolders": ["5_chainsaw_duck_capacity/6"]
         },
         {
             "group": "The Chainsaw Duck - Rarity",
@@ -402,6 +697,30 @@
             "contentFolders": ["6_proximity_duck_capacity/3"]
         },
         {
+            "group": "Proximity Explosive Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/000DA87003F63663.png",
+            "contentFolders": ["6_proximity_duck_capacity/4"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/000DA87003F63663.png",
+            "contentFolders": ["6_proximity_duck_capacity/5"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/000DA87003F63663.png",
+            "contentFolders": ["6_proximity_duck_capacity/6"]
+        },
+        {
             "group": "Proximity Explosive Duck - Rarity",
             "name": "No rarity",
             "type": "select",
@@ -472,6 +791,30 @@
             "enabledByDefault": false,
             "image": "0_images/00A303D60A8F70FF.png",
             "contentFolders": ["7_mkii_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/6"]
         },
         {
             "group": "Remote Explosive Rubber Duck MKII - Rarity",
@@ -546,6 +889,30 @@
             "contentFolders": ["8_sunset_duck_capacity/3"]
         },
         {
+            "group": "Sunset Rubber Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/0023AE46CAE67446.png",
+            "contentFolders": ["8_sunset_duck_capacity/4"]
+        },
+        {
+            "group": "Sunset Rubber Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/0023AE46CAE67446.png",
+            "contentFolders": ["8_sunset_duck_capacity/5"]
+        },
+        {
+            "group": "Sunset Rubber Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/0023AE46CAE67446.png",
+            "contentFolders": ["8_sunset_duck_capacity/6"]
+        },
+        {
             "group": "Sunset Rubber Duck - Rarity",
             "name": "No rarity",
             "type": "select",
@@ -616,6 +983,30 @@
             "enabledByDefault": false,
             "image": "0_images/006EBABE0FA7010E.png",
             "contentFolders": ["9_creator_duck_capacity/3"]
+        },
+        {
+            "group": "The Creator Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/006EBABE0FA7010E.png",
+            "contentFolders": ["9_creator_duck_capacity/4"]
+        },
+        {
+            "group": "The Creator Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/006EBABE0FA7010E.png",
+            "contentFolders": ["9_creator_duck_capacity/5"]
+        },
+        {
+            "group": "The Creator Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/006EBABE0FA7010E.png",
+            "contentFolders": ["9_creator_duck_capacity/6"]
         },
         {
             "group": "The Creator Duck - Rarity",
@@ -690,6 +1081,30 @@
             "contentFolders": ["10_showcase_duck_capacity/3"]
         },
         {
+            "group": "The IOI Showcase Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D69CFFE26A0073.png",
+            "contentFolders": ["10_showcase_duck_capacity/4"]
+        },
+        {
+            "group": "The IOI Showcase Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D69CFFE26A0073.png",
+            "contentFolders": ["10_showcase_duck_capacity/5"]
+        },
+        {
+            "group": "The IOI Showcase Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D69CFFE26A0073.png",
+            "contentFolders": ["10_showcase_duck_capacity/6"]
+        },
+        {
             "group": "The IOI Showcase Duck - Rarity",
             "name": "No rarity",
             "type": "select",
@@ -760,6 +1175,30 @@
             "enabledByDefault": false,
             "image": "0_images/00C568279DCD0812.png",
             "contentFolders": ["11_dino_duck_capacity/3"]
+        },
+        {
+            "group": "The Dino Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C568279DCD0812.png",
+            "contentFolders": ["11_dino_duck_capacity/4"]
+        },
+        {
+            "group": "The Dino Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C568279DCD0812.png",
+            "contentFolders": ["11_dino_duck_capacity/5"]
+        },
+        {
+            "group": "The Dino Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C568279DCD0812.png",
+            "contentFolders": ["11_dino_duck_capacity/6"]
         },
         {
             "group": "The Dino Duck - Rarity",
@@ -834,6 +1273,30 @@
             "contentFolders": ["12_dragon_duck_capacity/3"]
         },
         {
+            "group": "The Dragon Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/000446D725147D19.png",
+            "contentFolders": ["12_dragon_duck_capacity/4"]
+        },
+        {
+            "group": "The Dragon Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/000446D725147D19.png",
+            "contentFolders": ["12_dragon_duck_capacity/5"]
+        },
+        {
+            "group": "The Dragon Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/000446D725147D19.png",
+            "contentFolders": ["12_dragon_duck_capacity/6"]
+        },
+        {
             "group": "The Dragon Duck - Rarity",
             "name": "No rarity",
             "type": "select",
@@ -904,6 +1367,30 @@
             "enabledByDefault": false,
             "image": "0_images/006C1FCBC94D9E68.png",
             "contentFolders": ["13_neon_duck_capacity/3"]
+        },
+        {
+            "group": "The Neon Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/006C1FCBC94D9E68.png",
+            "contentFolders": ["13_neon_duck_capacity/4"]
+        },
+        {
+            "group": "The Neon Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/006C1FCBC94D9E68.png",
+            "contentFolders": ["13_neon_duck_capacity/5"]
+        },
+        {
+            "group": "The Neon Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/006C1FCBC94D9E68.png",
+            "contentFolders": ["13_neon_duck_capacity/6"]
         },
         {
             "group": "The Neon Duck - Rarity",
@@ -978,6 +1465,30 @@
             "contentFolders": ["14_purple_duck_capacity/3"]
         },
         {
+            "group": "The Purple Streak Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008018587E014C1B.png",
+            "contentFolders": ["14_purple_duck_capacity/4"]
+        },
+        {
+            "group": "The Purple Streak Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008018587E014C1B.png",
+            "contentFolders": ["14_purple_duck_capacity/5"]
+        },
+        {
+            "group": "The Purple Streak Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008018587E014C1B.png",
+            "contentFolders": ["14_purple_duck_capacity/6"]
+        },
+        {
             "group": "The Purple Streak Duck - Rarity",
             "name": "No rarity",
             "type": "select",
@@ -1023,7 +1534,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_capacity/0"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/0"]
         },
         {
             "group": "The Pale Duck - Gear Capacity",
@@ -1031,7 +1542,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_capacity/1"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/1"]
         },
         {
             "group": "The Pale Duck - Gear Capacity",
@@ -1039,7 +1550,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_capacity/2"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/2"]
         },
         {
             "group": "The Pale Duck - Gear Capacity",
@@ -1047,7 +1558,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_capacity/3"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/3"]
+        },
+        {
+            "group": "The Pale Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/4"]
+        },
+        {
+            "group": "The Pale Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/5"]
+        },
+        {
+            "group": "The Pale Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/6"]
         },
         {
             "group": "The Pale Duck - Rarity",
@@ -1055,7 +1590,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_rarity/1"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/1"]
         },
         {
             "group": "The Pale Duck - Rarity",
@@ -1063,7 +1598,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_rarity/2"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/2"]
         },
         {
             "group": "The Pale Duck - Rarity",
@@ -1071,7 +1606,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_rarity/3"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/3"]
         },
         {
             "group": "The Pale Duck - Rarity",
@@ -1079,7 +1614,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["15_pale_duck_rarity/4"]
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/4"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
@@ -1087,7 +1622,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_capacity/0"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/0"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
@@ -1095,7 +1630,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_capacity/1"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/1"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
@@ -1103,7 +1638,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_capacity/2"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/2"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
@@ -1111,7 +1646,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_capacity/3"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/6"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
@@ -1119,7 +1678,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_rarity/1"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/1"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
@@ -1127,7 +1686,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_rarity/2"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/2"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
@@ -1135,7 +1694,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_rarity/3"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/3"]
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
@@ -1143,7 +1702,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["16_devil_duck_rarity/4"]
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/4"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
@@ -1151,7 +1710,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_capacity/0"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/0"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
@@ -1159,7 +1718,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_capacity/1"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/1"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
@@ -1167,7 +1726,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_capacity/2"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/2"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
@@ -1175,7 +1734,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_capacity/3"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/6"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
@@ -1183,7 +1766,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_rarity/1"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/1"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
@@ -1191,7 +1774,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_rarity/2"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/2"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
@@ -1199,7 +1782,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_rarity/3"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/3"]
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
@@ -1207,7 +1790,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["17_concussion_collectors_duck_rarity/4"]
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/4"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
@@ -1215,7 +1798,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_capacity/0"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/0"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
@@ -1223,7 +1806,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_capacity/1"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/1"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
@@ -1231,7 +1814,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_capacity/2"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/2"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
@@ -1239,7 +1822,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_capacity/3"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/6"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
@@ -1247,7 +1854,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_rarity/1"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/1"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
@@ -1255,7 +1862,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_rarity/2"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/2"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
@@ -1263,7 +1870,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_rarity/3"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/3"]
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
@@ -1271,7 +1878,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["18_concussion_duck_rarity/4"]
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/4"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
@@ -1279,7 +1886,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_capacity/0"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/0"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
@@ -1287,7 +1894,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_capacity/1"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/1"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
@@ -1295,7 +1902,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_capacity/2"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/2"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
@@ -1303,7 +1910,31 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_capacity/3"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/3"]
+        },
+        {
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/image.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/4"]
+        },
+        {
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/image.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/5"]
+        },
+        {
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/image.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/6"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
@@ -1311,7 +1942,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_rarity/1"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_rarity/1"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
@@ -1319,7 +1950,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_rarity/2"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_rarity/2"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
@@ -1327,7 +1958,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_rarity/3"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_rarity/3"]
         },
         {
             "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
@@ -1335,7 +1966,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/image.png",
-            "contentFolders": ["19_proximity_duck_mkii_rarity/4"]
+            "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_rarity/4"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
@@ -1343,7 +1974,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_capacity/0"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/0"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
@@ -1351,7 +1982,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_capacity/1"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/1"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
@@ -1359,7 +1990,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_capacity/2"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/2"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
@@ -1367,7 +1998,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_capacity/3"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/6"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
@@ -1375,7 +2030,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_rarity/1"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/1"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
@@ -1383,7 +2038,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_rarity/2"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/2"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
@@ -1391,7 +2046,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_rarity/3"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/3"]
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
@@ -1399,22 +2054,15 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["20_classic_duck_rarity/4"]
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/4"]
         },
-        {
-			"name": "Replace Proximity Explosive Duck with Proximity Explosive Duck MKII",
-			"type": "checkbox",
-            "enabledByDefault": false,
-            "image": "0_images/duck.png",
-			"contentFolders": ["19_proximity_duck_mkii"]
-		},
         {
             "group": "The Muay Thai Duck - Gear Capacity",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_capacity/0"]
+            "contentFolders": ["15_pomada_duck_capacity/0"]
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
@@ -1422,7 +2070,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_capacity/1"]
+            "contentFolders": ["15_pomada_duck_capacity/1"]
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
@@ -1430,7 +2078,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_capacity/2"]
+            "contentFolders": ["15_pomada_duck_capacity/2"]
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
@@ -1438,7 +2086,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_capacity/3"]
+            "contentFolders": ["15_pomada_duck_capacity/3"]
+        },
+        {
+            "group": "The Muay Thai Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["15_pomada_duck_capacity/4"]
+        },
+        {
+            "group": "The Muay Thai Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["15_pomada_duck_capacity/5"]
+        },
+        {
+            "group": "The Muay Thai Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/004829BF0C279AB3.png",
+            "contentFolders": ["15_pomada_duck_capacity/6"]
         },
         {
             "group": "The Muay Thai Duck - Rarity",
@@ -1446,7 +2118,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_rarity/0"]
+            "contentFolders": ["15_pomada_duck_rarity/0"]
         },
         {
             "group": "The Muay Thai Duck - Rarity",
@@ -1454,7 +2126,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_rarity/1"]
+            "contentFolders": ["15_pomada_duck_rarity/1"]
         },
         {
             "group": "The Muay Thai Duck - Rarity",
@@ -1462,7 +2134,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_rarity/2"]
+            "contentFolders": ["15_pomada_duck_rarity/2"]
         },
         {
             "group": "The Muay Thai Duck - Rarity",
@@ -1470,7 +2142,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_rarity/3"]
+            "contentFolders": ["15_pomada_duck_rarity/3"]
         },
         {
             "group": "The Muay Thai Duck - Rarity",
@@ -1478,7 +2150,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/004829BF0C279AB3.png",
-            "contentFolders": ["21_pomada_duck_rarity/4"]
+            "contentFolders": ["15_pomada_duck_rarity/4"]
         },
         {
             "group": "The Banger Duck - Gear Capacity",
@@ -1486,7 +2158,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_capacity/0"]
+            "contentFolders": ["16_banger_duck_capacity/0"]
         },
         {
             "group": "The Banger Duck - Gear Capacity",
@@ -1494,7 +2166,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_capacity/1"]
+            "contentFolders": ["16_banger_duck_capacity/1"]
         },
         {
             "group": "The Banger Duck - Gear Capacity",
@@ -1502,7 +2174,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_capacity/2"]
+            "contentFolders": ["16_banger_duck_capacity/2"]
         },
         {
             "group": "The Banger Duck - Gear Capacity",
@@ -1510,7 +2182,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_capacity/3"]
+            "contentFolders": ["16_banger_duck_capacity/3"]
+        },
+        {
+            "group": "The Banger Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["16_banger_duck_capacity/4"]
+        },
+        {
+            "group": "The Banger Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["16_banger_duck_capacity/5"]
+        },
+        {
+            "group": "The Banger Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00D8D77ABFB4BCCD.png",
+            "contentFolders": ["16_banger_duck_capacity/6"]
         },
         {
             "group": "The Banger Duck - Rarity",
@@ -1518,7 +2214,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_rarity/0"]
+            "contentFolders": ["16_banger_duck_rarity/0"]
         },
         {
             "group": "The Banger Duck - Rarity",
@@ -1526,7 +2222,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_rarity/1"]
+            "contentFolders": ["16_banger_duck_rarity/1"]
         },
         {
             "group": "The Banger Duck - Rarity",
@@ -1534,7 +2230,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_rarity/2"]
+            "contentFolders": ["16_banger_duck_rarity/2"]
         },
         {
             "group": "The Banger Duck - Rarity",
@@ -1542,7 +2238,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_rarity/3"]
+            "contentFolders": ["16_banger_duck_rarity/3"]
         },
         {
             "group": "The Banger Duck - Rarity",
@@ -1550,7 +2246,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00D8D77ABFB4BCCD.png",
-            "contentFolders": ["22_banger_duck_rarity/4"]
+            "contentFolders": ["16_banger_duck_rarity/4"]
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
@@ -1558,7 +2254,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_capacity/0"]
+            "contentFolders": ["17_vuvuzela_duck_capacity/0"]
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
@@ -1566,7 +2262,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_capacity/1"]
+            "contentFolders": ["17_vuvuzela_duck_capacity/1"]
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
@@ -1574,7 +2270,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_capacity/2"]
+            "contentFolders": ["17_vuvuzela_duck_capacity/2"]
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
@@ -1582,7 +2278,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_capacity/3"]
+            "contentFolders": ["17_vuvuzela_duck_capacity/3"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["17_vuvuzela_duck_capacity/4"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["17_vuvuzela_duck_capacity/5"]
+        },
+        {
+            "group": "The Vuvuzela Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00AF50C317E33ACF.png",
+            "contentFolders": ["17_vuvuzela_duck_capacity/6"]
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
@@ -1590,7 +2310,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_rarity/0"]
+            "contentFolders": ["17_vuvuzela_duck_rarity/0"]
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
@@ -1598,7 +2318,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_rarity/1"]
+            "contentFolders": ["17_vuvuzela_duck_rarity/1"]
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
@@ -1606,7 +2326,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_rarity/2"]
+            "contentFolders": ["17_vuvuzela_duck_rarity/2"]
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
@@ -1614,7 +2334,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_rarity/3"]
+            "contentFolders": ["17_vuvuzela_duck_rarity/3"]
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
@@ -1622,7 +2342,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/00AF50C317E33ACF.png",
-            "contentFolders": ["23_vuvuzela_duck_rarity/4"]
+            "contentFolders": ["17_vuvuzela_duck_rarity/4"]
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
@@ -1630,7 +2350,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_capacity/0"]
+            "contentFolders": ["18_bowtie_duck_capacity/0"]
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
@@ -1638,7 +2358,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_capacity/1"]
+            "contentFolders": ["18_bowtie_duck_capacity/1"]
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
@@ -1646,7 +2366,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_capacity/2"]
+            "contentFolders": ["18_bowtie_duck_capacity/2"]
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
@@ -1654,7 +2374,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_capacity/3"]
+            "contentFolders": ["18_bowtie_duck_capacity/3"]
+        },
+        {
+            "group": "The Bowtie Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["18_bowtie_duck_capacity/4"]
+        },
+        {
+            "group": "The Bowtie Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["18_bowtie_duck_capacity/5"]
+        },
+        {
+            "group": "The Bowtie Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007DFCB6D625DCDC.png",
+            "contentFolders": ["18_bowtie_duck_capacity/6"]
         },
         {
             "group": "The Bowtie Duck - Rarity",
@@ -1662,7 +2406,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_rarity/0"]
+            "contentFolders": ["18_bowtie_duck_rarity/0"]
         },
         {
             "group": "The Bowtie Duck - Rarity",
@@ -1670,7 +2414,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_rarity/1"]
+            "contentFolders": ["18_bowtie_duck_rarity/1"]
         },
         {
             "group": "The Bowtie Duck - Rarity",
@@ -1678,7 +2422,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_rarity/2"]
+            "contentFolders": ["18_bowtie_duck_rarity/2"]
         },
         {
             "group": "The Bowtie Duck - Rarity",
@@ -1686,7 +2430,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_rarity/3"]
+            "contentFolders": ["18_bowtie_duck_rarity/3"]
         },
         {
             "group": "The Bowtie Duck - Rarity",
@@ -1694,7 +2438,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007DFCB6D625DCDC.png",
-            "contentFolders": ["24_bowtie_duck_rarity/4"]
+            "contentFolders": ["18_bowtie_duck_rarity/4"]
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
@@ -1702,7 +2446,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_capacity/0"]
+            "contentFolders": ["19_geforce_duck_capacity/0"]
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
@@ -1710,7 +2454,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_capacity/1"]
+            "contentFolders": ["19_geforce_duck_capacity/1"]
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
@@ -1718,7 +2462,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_capacity/2"]
+            "contentFolders": ["19_geforce_duck_capacity/2"]
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
@@ -1726,7 +2470,31 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_capacity/3"]
+            "contentFolders": ["19_geforce_duck_capacity/3"]
+        },
+        {
+            "group": "The High Performance Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["19_geforce_duck_capacity/4"]
+        },
+        {
+            "group": "The High Performance Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["19_geforce_duck_capacity/5"]
+        },
+        {
+            "group": "The High Performance Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007A648FD9BC68DA.png",
+            "contentFolders": ["19_geforce_duck_capacity/6"]
         },
         {
             "group": "The High Performance Duck - Rarity",
@@ -1734,7 +2502,7 @@
             "type": "select",
             "enabledByDefault": true,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_rarity/0"]
+            "contentFolders": ["19_geforce_duck_rarity/0"]
         },
         {
             "group": "The High Performance Duck - Rarity",
@@ -1742,7 +2510,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_rarity/1"]
+            "contentFolders": ["19_geforce_duck_rarity/1"]
         },
         {
             "group": "The High Performance Duck - Rarity",
@@ -1750,7 +2518,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_rarity/2"]
+            "contentFolders": ["19_geforce_duck_rarity/2"]
         },
         {
             "group": "The High Performance Duck - Rarity",
@@ -1758,7 +2526,7 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_rarity/3"]
+            "contentFolders": ["19_geforce_duck_rarity/3"]
         },
         {
             "group": "The High Performance Duck - Rarity",
@@ -1766,7 +2534,199 @@
             "type": "select",
             "enabledByDefault": false,
             "image": "0_images/007A648FD9BC68DA.png",
-            "contentFolders": ["25_geforce_duck_rarity/4"]
+            "contentFolders": ["19_geforce_duck_rarity/4"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Gear Capacity",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_capacity/0"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Gear Capacity",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_capacity/1"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Gear Capacity",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_capacity/2"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Gear Capacity",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_capacity/3"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_capacity/4"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_capacity/5"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_capacity/6"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Rarity",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_rarity/0"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Rarity",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_rarity/1"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Rarity",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_rarity/2"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Rarity",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_rarity/3"]
+        },
+        {
+            "group": "The See-No-Evil Duck - Rarity",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/seenoevilduck.jpg",
+            "contentFolders": ["20_sambuca_duck_rarity/4"]
+        },
+        {
+            "group": "The Dank Duck - Gear Capacity",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_capacity/0"]
+        },
+        {
+            "group": "The Dank Duck - Gear Capacity",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_capacity/1"]
+        },
+        {
+            "group": "The Dank Duck - Gear Capacity",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_capacity/2"]
+        },
+        {
+            "group": "The Dank Duck - Gear Capacity",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_capacity/3"]
+        },
+        {
+            "group": "The Dank Duck - Gear Capacity",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_capacity/4"]
+        },
+        {
+            "group": "The Dank Duck - Gear Capacity",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_capacity/5"]
+        },
+        {
+            "group": "The Dank Duck - Gear Capacity",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_capacity/6"]
+        },
+        {
+            "group": "The Dank Duck - Rarity",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_rarity/0"]
+        },
+        {
+            "group": "The Dank Duck - Rarity",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_rarity/1"]
+        },
+        {
+            "group": "The Dank Duck - Rarity",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_rarity/2"]
+        },
+        {
+            "group": "The Dank Duck - Rarity",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_rarity/3"]
+        },
+        {
+            "group": "The Dank Duck - Rarity",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/dankduck.jpg",
+            "contentFolders": ["21_greentini_duck_rarity/4"]
         }
     ]	
 }

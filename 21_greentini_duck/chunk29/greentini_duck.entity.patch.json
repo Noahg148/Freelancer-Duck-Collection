@@ -1,0 +1,52 @@
+{
+    "tempHash": "00A9B93A825F5BDC",
+    "tbluHash": "005BA5CA6AC00627",
+    "patch": [
+        {
+            "AddEntity": [
+                "cafe6c95b2f93b74",
+                {
+                    "parent": "bdd2f3ef19f86bbb",
+                    "name": "Item_Greentini_Duck",
+                    "factory": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entitytype",
+                    "blueprint": "[assembly:/_pro/design/setpieces/setpieces_evergreen.template?/setpiece_evergreen_cosmeticitem.entitytemplate].pc_entityblueprint",
+                    "properties": {
+                        "m_mTransform": {
+                            "type": "SMatrix43",
+                            "value": {
+                                "rotation": {
+                                    "x": 0,
+                                    "y": 0,
+                                    "z": -90
+                                },
+                                "position": {
+                                    "x": -0.75,
+                                    "y": -0.189474,
+                                    "z": 1.02907395362854
+                                }
+                            }
+                        },
+                        "repositoryId": {
+                            "type": "ZGuid",
+                            "value": "214d2ad9-292d-470d-8fdb-c4c9e72e0efa"
+                        },
+                        "anyTrue": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_bSpawnOnStart": {
+                            "type": "bool",
+                            "value": true
+                        },
+                        "m_eidParent": {
+                            "type": "SEntityTemplateReference",
+                            "value": "51f7e79b5efed557",
+                            "postInit": true
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "patchVersion": 6
+}
