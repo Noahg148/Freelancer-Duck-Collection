@@ -10,7 +10,7 @@
     "options": [
         {
 			"name": "Replace the Proximity Explosive Duck with the Proximity Explosive Duck MKII",
-            "tooltip": "",
+            "tooltip": ".",
 			"type": "checkbox",
             "enabledByDefault": false,
             "image": "0_images/duck.png",
@@ -19,7 +19,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The In-flu-ential Duck",
-            "tooltip": "",
+            "tooltip": ".",
 			"type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00C650FAEECA8A5C.png",
@@ -28,7 +28,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Poker Face Duck",
-            "tooltip": "",
+            "tooltip": ".",
 			"type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00E568CAF2975223.png",
@@ -37,7 +37,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Tracksuit Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/008DB231AEFD27BC.png",
@@ -46,7 +46,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Trophy Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00991F114ED03B96.png",
@@ -55,7 +55,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Chainsaw Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00E59BDA0E0D7C2F.png",
@@ -64,7 +64,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Proximity Explosive Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/000DA87003F63663.png",
@@ -73,7 +73,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Remote Explosive Rubber Duck Mk II",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00A303D60A8F70FF.png",
@@ -82,7 +82,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Sunset Rubber Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/0023AE46CAE67446.png",
@@ -91,7 +91,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Creator Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/006EBABE0FA7010E.png",
@@ -100,7 +100,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The IOI Showcase Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00D69CFFE26A0073.png",
@@ -109,7 +109,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Dino Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00C568279DCD0812.png",
@@ -118,7 +118,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Dragon Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/000446D725147D19.png",
@@ -127,7 +127,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Neon Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/006C1FCBC94D9E68.png",
@@ -136,7 +136,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Purple Streak Explosive Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/008018587E014C1B.png",
@@ -145,7 +145,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Muay Thai Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/004829BF0C279AB3.png",
@@ -154,7 +154,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Banger Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00D8D77ABFB4BCCD.png",
@@ -163,7 +163,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Vuvuzela Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/00AF50C317E33ACF.png",
@@ -172,7 +172,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Bowtie Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/007DFCB6D625DCDC.png",
@@ -181,7 +181,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The High Performance Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/007A648FD9BC68DA.png",
@@ -190,7 +190,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The See-No-Evil Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/seenoevilduck.jpg",
@@ -199,7 +199,7 @@
         {
             "group": "Special Ducks",
             "name": "Spawn The Dank Duck",
-            "tooltip": "",
+            "tooltip": ".",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/dankduck.jpg",
