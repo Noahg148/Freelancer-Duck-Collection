@@ -9,7 +9,7 @@
     "updateCheck": "https://raw.githubusercontent.com/Noahg148/Hitman-3-Mod-Updater/refs/heads/main/FreelancerDuckCollection-updater.json",
     "options": [
         {
-			"name": "Replace Proximity Explosive Duck with Proximity Explosive Duck MKII",
+			"name": "Replace the Proximity Explosive Duck with the Proximity Explosive Duck MKII",
 			"type": "checkbox",
             "enabledByDefault": false,
             "image": "0_images/duck.png",
@@ -35,7 +35,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Tracksuit Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/008DB231AEFD27BC.png",
             "contentFolders": ["3_tracksuit_duck"]
         },
@@ -43,7 +43,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Trophy Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/00991F114ED03B96.png",
             "contentFolders": ["4_trophy_duck"]
         },
@@ -51,31 +51,31 @@
             "group": "Special Ducks",
             "name": "Spawn The Chainsaw Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/00E59BDA0E0D7C2F.png",
             "contentFolders": ["5_chainsaw_duck"]
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Proximity Duck",
+            "name": "Spawn The Proximity Explosive Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/000DA87003F63663.png",
             "contentFolders": ["6_proximity_duck"]
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The MKII Duck",
+            "name": "Spawn The Remote Explsive Rubber Duck Mk II",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/00A303D60A8F70FF.png",
             "contentFolders": ["7_mkii_duck"]
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Sunset Duck",
+            "name": "Spawn The Sunset Rubber Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/0023AE46CAE67446.png",
             "contentFolders": ["8_sunset_duck"]
         },
@@ -83,15 +83,15 @@
             "group": "Special Ducks",
             "name": "Spawn The Creator Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/006EBABE0FA7010E.png",
             "contentFolders": ["9_creator_duck"]
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Showcase Duck",
+            "name": "Spawn The IOI Showcase Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/00D69CFFE26A0073.png",
             "contentFolders": ["10_showcase_duck"]
         },
@@ -99,7 +99,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Dino Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/00C568279DCD0812.png",
             "contentFolders": ["11_dino_duck"]
         },
@@ -107,7 +107,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Dragon Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/000446D725147D19.png",
             "contentFolders": ["12_dragon_duck"]
         },
@@ -115,23 +115,23 @@
             "group": "Special Ducks",
             "name": "Spawn The Neon Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/006C1FCBC94D9E68.png",
             "contentFolders": ["13_neon_duck"]
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Purple Duck",
+            "name": "Spawn The Purple Streak Explosive Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/008018587E014C1B.png",
             "contentFolders": ["14_purple_duck"]
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Pomada Duck",
+            "name": "Spawn The Muay Thai Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/004829BF0C279AB3.png",
             "contentFolders": ["15_pomada_duck"]
         },
@@ -139,7 +139,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Banger Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/00D8D77ABFB4BCCD.png",
             "contentFolders": ["16_banger_duck"]
         },
@@ -147,7 +147,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Vuvuzela Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/00AF50C317E33ACF.png",
             "contentFolders": ["17_vuvuzela_duck"]
         },
@@ -155,7 +155,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Bowtie Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/007DFCB6D625DCDC.png",
             "contentFolders": ["18_bowtie_duck"]
         },
@@ -163,7 +163,7 @@
             "group": "Special Ducks",
             "name": "Spawn The High Performance Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/007A648FD9BC68DA.png",
             "contentFolders": ["19_geforce_duck"]
         },
@@ -171,7 +171,7 @@
             "group": "Special Ducks",
             "name": "Spawn The See-No-Evil Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/seenoevilduck.jpg",
             "contentFolders": ["20_sambuca_duck"]
         },
@@ -179,7 +179,7 @@
             "group": "Special Ducks",
             "name": "Spawn The Dank Duck",
             "type": "checkbox",
-            "enabledByDefault": false,
+            "enabledByDefault": true,
             "image": "0_images/dankduck.jpg",
             "contentFolders": ["21_greentini_duck"]
         },
@@ -760,7 +760,7 @@
             "contentFolders": ["6_proximity_duck_rarity/4"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -768,7 +768,7 @@
             "contentFolders": ["7_mkii_duck_capacity/0"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -776,7 +776,7 @@
             "contentFolders": ["7_mkii_duck_capacity/1"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -784,7 +784,7 @@
             "contentFolders": ["7_mkii_duck_capacity/2"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -792,7 +792,7 @@
             "contentFolders": ["7_mkii_duck_capacity/3"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -800,7 +800,7 @@
             "contentFolders": ["7_mkii_duck_capacity/4"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -808,7 +808,7 @@
             "contentFolders": ["7_mkii_duck_capacity/5"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Gear Capacity",
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -816,7 +816,7 @@
             "contentFolders": ["7_mkii_duck_capacity/6"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Rarity",
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -824,7 +824,7 @@
             "contentFolders": ["7_mkii_duck_rarity/0"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Rarity",
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -832,7 +832,7 @@
             "contentFolders": ["7_mkii_duck_rarity/1"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Rarity",
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -840,7 +840,7 @@
             "contentFolders": ["7_mkii_duck_rarity/2"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Rarity",
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -848,7 +848,7 @@
             "contentFolders": ["7_mkii_duck_rarity/3"]
         },
         {
-            "group": "Remote Explosive Rubber Duck MKII - Rarity",
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1880,7 +1880,7 @@
             "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/4"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Gear Capacity",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1888,7 +1888,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/0"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Gear Capacity",
             "name": "1",
             "type": "select",
             "enabledByDefault": false,
@@ -1896,7 +1896,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/1"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Gear Capacity",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1904,7 +1904,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/2"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Gear Capacity",
             "name": "3 (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1912,7 +1912,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/3"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Gear Capacity",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1920,7 +1920,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/4"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Gear Capacity",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1928,7 +1928,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/5"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Gear Capacity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Gear Capacity",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1936,7 +1936,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_capacity/6"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Rarity",
             "name": "Common (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1944,7 +1944,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_rarity/1"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Rarity",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1952,7 +1952,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_rarity/2"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Rarity",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1960,7 +1960,7 @@
             "contentFolders": ["0_default_ducks/5_proximity_duck_mkii_rarity/3"]
         },
         {
-            "group": "Proximity Explosive Duck / Proximity Explosive Duck MKII - Rarity",
+            "group": "Proximity Explosive Duck / Proximity Explosive Duck Mk II - Rarity",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
