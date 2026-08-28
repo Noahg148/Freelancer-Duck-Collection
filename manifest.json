@@ -5,7 +5,6 @@
 	"description": "Spawns ducks on the supplier desk",
 	"authors": ["Noahg148"],
 	"frameworkVersion": "2.0.0",
-	"contentFolders": ["0_default_ducks"],
 	"thumbs": ["ConsoleCmd OnlineResources_Disable 1"],
     "updateCheck": "https://raw.githubusercontent.com/Noahg148/Hitman-3-Mod-Updater/refs/heads/main/FreelancerDuckCollection-updater.json",
     "options": [
