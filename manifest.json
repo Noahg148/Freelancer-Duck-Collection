@@ -226,6 +226,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -234,6 +235,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -242,6 +244,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -250,6 +253,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -258,6 +262,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -266,6 +271,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -274,6 +280,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -282,6 +289,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Rarity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -290,6 +298,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Rarity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -298,6 +307,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Rarity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -306,6 +316,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Rarity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -314,6 +325,7 @@
         },
         {
             "group": "The In-flu-ential Duck - Rarity",
+            "tooltip": "A rubber duck dressed in an evening gown. When this proximity-activated device detects motion nearby, it emits a cloud of emetic gas, inflicting immediate nausea and sickness on those caught in it.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -322,6 +334,7 @@
         },
         {
             "group": "The Poker Face Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -330,6 +343,7 @@
         },
         {
             "group": "The Poker Face Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -338,6 +352,7 @@
         },
         {
             "group": "The Poker Face Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -346,6 +361,7 @@
         },
         {
             "group": "The Poker Face Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -354,6 +370,7 @@
         },
         {
             "group": "The Poker Face Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -362,6 +379,7 @@
         },
         {
             "group": "The Poker Face Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -370,6 +388,7 @@
         },
         {
             "group": "The Poker Face Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -378,6 +397,7 @@
         },
         {
             "group": "The Poker Face Duck - Rarity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -386,6 +406,7 @@
         },
         {
             "group": "The Poker Face Duck - Rarity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -394,6 +415,7 @@
         },
         {
             "group": "The Poker Face Duck - Rarity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -402,6 +424,7 @@
         },
         {
             "group": "The Poker Face Duck - Rarity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -410,6 +433,7 @@
         },
         {
             "group": "The Poker Face Duck - Rarity",
+            "tooltip": "A rubber duck with a legendary poker face. Remote activated, when triggered, it plays sounds of a casino payout, attracting those nearby.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -418,6 +442,7 @@
         },
         {
             "group": "The Tracksuit Duck - Gear Capacity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -426,6 +451,7 @@
         },
         {
             "group": "The Tracksuit Duck - Gear Capacity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -434,6 +460,7 @@
         },
         {
             "group": "The Tracksuit Duck - Gear Capacity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -442,6 +469,7 @@
         },
         {
             "group": "The Tracksuit Duck - Gear Capacity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -450,6 +478,7 @@
         },
         {
             "group": "The Tracksuit Duck - Gear Capacity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -458,6 +487,7 @@
         },
         {
             "group": "The Tracksuit Duck - Gear Capacity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -466,6 +496,7 @@
         },
         {
             "group": "The Tracksuit Duck - Gear Capacity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -474,6 +505,7 @@
         },
         {
             "group": "The Tracksuit Duck - Rarity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -482,6 +514,7 @@
         },
         {
             "group": "The Tracksuit Duck - Rarity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -490,6 +523,7 @@
         },
         {
             "group": "The Tracksuit Duck - Rarity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -498,6 +532,7 @@
         },
         {
             "group": "The Tracksuit Duck - Rarity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -506,6 +541,7 @@
         },
         {
             "group": "The Tracksuit Duck - Rarity",
+            "tooltip": "A rubber duck that resembles an old friend. When this proximity-activated device detects motion nearby, it detonates a concussive explosive.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -514,6 +550,7 @@
         },
         {
             "group": "The Trophy Duck - Gear Capacity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -522,6 +559,7 @@
         },
         {
             "group": "The Trophy Duck - Gear Capacity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -530,6 +568,7 @@
         },
         {
             "group": "The Trophy Duck - Gear Capacity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -538,6 +577,7 @@
         },
         {
             "group": "The Trophy Duck - Gear Capacity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -546,6 +586,7 @@
         },
         {
             "group": "The Trophy Duck - Gear Capacity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -554,6 +595,7 @@
         },
         {
             "group": "The Trophy Duck - Gear Capacity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -562,6 +604,7 @@
         },
         {
             "group": "The Trophy Duck - Gear Capacity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -570,6 +613,7 @@
         },
         {
             "group": "The Trophy Duck - Rarity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -578,6 +622,7 @@
         },
         {
             "group": "The Trophy Duck - Rarity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -586,6 +631,7 @@
         },
         {
             "group": "The Trophy Duck - Rarity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -594,6 +640,7 @@
         },
         {
             "group": "The Trophy Duck - Rarity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -602,6 +649,7 @@
         },
         {
             "group": "The Trophy Duck - Rarity",
+            "tooltip": "Make this gilded geometric flash device part of your winning strategy by \"presenting\" it to your enemies. Can they handle the fame? The glory? The flashing lights? Hopefully not.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -610,6 +658,7 @@
         },
         {
             "group": "The Chainsaw Duck - Gear Capacity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -618,6 +667,7 @@
         },
         {
             "group": "The Chainsaw Duck - Gear Capacity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -626,6 +676,7 @@
         },
         {
             "group": "The Chainsaw Duck - Gear Capacity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -634,6 +685,7 @@
         },
         {
             "group": "The Chainsaw Duck - Gear Capacity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -642,6 +694,7 @@
         },
         {
             "group": "The Chainsaw Duck - Gear Capacity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -650,6 +703,7 @@
         },
         {
             "group": "The Chainsaw Duck - Gear Capacity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -658,6 +712,7 @@
         },
         {
             "group": "The Chainsaw Duck - Gear Capacity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -666,6 +721,7 @@
         },
         {
             "group": "The Chainsaw Duck - Rarity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -674,6 +730,7 @@
         },
         {
             "group": "The Chainsaw Duck - Rarity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -682,6 +739,7 @@
         },
         {
             "group": "The Chainsaw Duck - Rarity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -690,6 +748,7 @@
         },
         {
             "group": "The Chainsaw Duck - Rarity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -698,6 +757,7 @@
         },
         {
             "group": "The Chainsaw Duck - Rarity",
+            "tooltip": "\"How is this duck holding a chainsaw? It doesn\u0027t even have hands!\" That will be the last thought running through your target\u0027s head before they\u0027re blown to bits.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -706,6 +766,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -714,6 +775,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -722,6 +784,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -730,6 +793,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -738,6 +802,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -746,6 +811,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -754,6 +820,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -762,6 +829,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -770,6 +838,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -778,6 +847,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -786,6 +856,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -794,6 +865,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -802,6 +874,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -810,6 +883,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -818,6 +892,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -826,6 +901,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -834,6 +910,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -842,6 +919,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -850,6 +928,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -858,6 +937,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -866,6 +946,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -874,6 +955,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -882,6 +964,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -890,6 +973,7 @@
         },
         {
             "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -898,6 +982,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -906,6 +991,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -914,6 +1000,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -922,6 +1009,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -930,6 +1018,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -938,6 +1027,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -946,6 +1036,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -954,6 +1045,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Rarity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -962,6 +1054,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Rarity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -970,6 +1063,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Rarity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -978,6 +1072,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Rarity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -986,6 +1081,7 @@
         },
         {
             "group": "Sunset Rubber Duck - Rarity",
+            "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -994,6 +1090,7 @@
         },
         {
             "group": "The Creator Duck - Gear Capacity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1002,6 +1099,7 @@
         },
         {
             "group": "The Creator Duck - Gear Capacity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -1010,6 +1108,7 @@
         },
         {
             "group": "The Creator Duck - Gear Capacity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1018,6 +1117,7 @@
         },
         {
             "group": "The Creator Duck - Gear Capacity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1026,6 +1126,7 @@
         },
         {
             "group": "The Creator Duck - Gear Capacity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1034,6 +1135,7 @@
         },
         {
             "group": "The Creator Duck - Gear Capacity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1042,6 +1144,7 @@
         },
         {
             "group": "The Creator Duck - Gear Capacity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1050,6 +1153,7 @@
         },
         {
             "group": "The Creator Duck - Rarity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -1058,6 +1162,7 @@
         },
         {
             "group": "The Creator Duck - Rarity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1066,6 +1171,7 @@
         },
         {
             "group": "The Creator Duck - Rarity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1074,6 +1180,7 @@
         },
         {
             "group": "The Creator Duck - Rarity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1082,6 +1189,7 @@
         },
         {
             "group": "The Creator Duck - Rarity",
+            "tooltip": "Being a creator is a kind of superpower. So is a good explosive. This duck will ensure that your target meets their maker. Now that\u0027s what we call great content.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1090,6 +1198,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Gear Capacity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1098,6 +1207,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Gear Capacity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -1106,6 +1216,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Gear Capacity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1114,6 +1225,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Gear Capacity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1122,6 +1234,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Gear Capacity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1130,6 +1243,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Gear Capacity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1138,6 +1252,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Gear Capacity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1146,6 +1261,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Rarity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -1154,6 +1270,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Rarity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1162,6 +1279,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Rarity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1170,6 +1288,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Rarity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1178,6 +1297,7 @@
         },
         {
             "group": "The IOI Showcase Duck - Rarity",
+            "tooltip": "Slick suit. Blank stare. And just enough boom to clear a room. Classic IOI charm.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1186,6 +1306,7 @@
         },
         {
             "group": "The Dino Duck - Gear Capacity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1194,6 +1315,7 @@
         },
         {
             "group": "The Dino Duck - Gear Capacity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -1202,6 +1324,7 @@
         },
         {
             "group": "The Dino Duck - Gear Capacity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1210,6 +1333,7 @@
         },
         {
             "group": "The Dino Duck - Gear Capacity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1218,6 +1342,7 @@
         },
         {
             "group": "The Dino Duck - Gear Capacity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1226,6 +1351,7 @@
         },
         {
             "group": "The Dino Duck - Gear Capacity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1234,6 +1360,7 @@
         },
         {
             "group": "The Dino Duck - Gear Capacity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1242,6 +1369,7 @@
         },
         {
             "group": "The Dino Duck - Rarity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -1250,6 +1378,7 @@
         },
         {
             "group": "The Dino Duck - Rarity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1258,6 +1387,7 @@
         },
         {
             "group": "The Dino Duck - Rarity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1266,6 +1396,7 @@
         },
         {
             "group": "The Dino Duck - Rarity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1274,6 +1405,7 @@
         },
         {
             "group": "The Dino Duck - Rarity",
+            "tooltip": "Righten up any location with this cute little green duck! But handle with care – if activated, it\u0027s sure to give an explosive performance that no one will forget.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1282,6 +1414,7 @@
         },
         {
             "group": "The Dragon Duck - Gear Capacity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1290,6 +1423,7 @@
         },
         {
             "group": "The Dragon Duck - Gear Capacity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -1298,6 +1432,7 @@
         },
         {
             "group": "The Dragon Duck - Gear Capacity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1306,6 +1441,7 @@
         },
         {
             "group": "The Dragon Duck - Gear Capacity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1314,6 +1450,7 @@
         },
         {
             "group": "The Dragon Duck - Gear Capacity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1322,6 +1459,7 @@
         },
         {
             "group": "The Dragon Duck - Gear Capacity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1330,6 +1468,7 @@
         },
         {
             "group": "The Dragon Duck - Gear Capacity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1338,6 +1477,7 @@
         },
         {
             "group": "The Dragon Duck - Rarity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -1346,6 +1486,7 @@
         },
         {
             "group": "The Dragon Duck - Rarity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1354,6 +1495,7 @@
         },
         {
             "group": "The Dragon Duck - Rarity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1362,6 +1504,7 @@
         },
         {
             "group": "The Dragon Duck - Rarity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1370,6 +1513,7 @@
         },
         {
             "group": "The Dragon Duck - Rarity",
+            "tooltip": "A medium explosive rubber duck device designed to resemble a dragon. Breathes fire before remotely detonating. Place carefully to tip the scales in your favor. Will attract casual attention if spotted.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1378,6 +1522,7 @@
         },
         {
             "group": "The Neon Duck - Gear Capacity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1386,6 +1531,7 @@
         },
         {
             "group": "The Neon Duck - Gear Capacity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -1394,6 +1540,7 @@
         },
         {
             "group": "The Neon Duck - Gear Capacity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1402,6 +1549,7 @@
         },
         {
             "group": "The Neon Duck - Gear Capacity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1410,6 +1558,7 @@
         },
         {
             "group": "The Neon Duck - Gear Capacity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1418,6 +1567,7 @@
         },
         {
             "group": "The Neon Duck - Gear Capacity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1426,6 +1576,7 @@
         },
         {
             "group": "The Neon Duck - Gear Capacity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1434,6 +1585,7 @@
         },
         {
             "group": "The Neon Duck - Rarity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -1442,6 +1594,7 @@
         },
         {
             "group": "The Neon Duck - Rarity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1450,6 +1603,7 @@
         },
         {
             "group": "The Neon Duck - Rarity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1458,6 +1612,7 @@
         },
         {
             "group": "The Neon Duck - Rarity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1466,6 +1621,7 @@
         },
         {
             "group": "The Neon Duck - Rarity",
+            "tooltip": "Always trending, always deadly. One cute dance, one wrong tap, and boom—you\u0027re part of the algorithm now.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1474,6 +1630,7 @@
         },
         {
             "group": "The Purple Streak Duck - Gear Capacity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1482,6 +1639,7 @@
         },
         {
             "group": "The Purple Streak Duck - Gear Capacity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -1490,6 +1648,7 @@
         },
         {
             "group": "The Purple Streak Duck - Gear Capacity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1498,6 +1657,7 @@
         },
         {
             "group": "The Purple Streak Duck - Gear Capacity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1506,6 +1666,7 @@
         },
         {
             "group": "The Purple Streak Duck - Gear Capacity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1514,6 +1675,7 @@
         },
         {
             "group": "The Purple Streak Duck - Gear Capacity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1522,6 +1684,7 @@
         },
         {
             "group": "The Purple Streak Duck - Gear Capacity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1530,6 +1693,7 @@
         },
         {
             "group": "The Purple Streak Duck - Rarity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -1538,6 +1702,7 @@
         },
         {
             "group": "The Purple Streak Duck - Rarity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1546,6 +1711,7 @@
         },
         {
             "group": "The Purple Streak Duck - Rarity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1554,6 +1720,7 @@
         },
         {
             "group": "The Purple Streak Duck - Rarity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1562,6 +1729,7 @@
         },
         {
             "group": "The Purple Streak Duck - Rarity",
+            "tooltip": "Everyone\u0027s favorite remote rubber explosive device is back! Now in purple. This is a sure fire hit to gain the attention of any target. But place with caution: this cute little thing is deadly.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1570,6 +1738,7 @@
         },
         {
             "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1578,6 +1747,7 @@
         },
         {
             "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "1",
             "type": "select",
             "enabledByDefault": false,
@@ -1586,6 +1756,7 @@
         },
         {
             "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "2 (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1594,6 +1765,7 @@
         },
         {
             "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1602,6 +1774,7 @@
         },
         {
             "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1610,6 +1783,7 @@
         },
         {
             "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1618,6 +1792,7 @@
         },
         {
             "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1626,6 +1801,7 @@
         },
         {
             "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1634,6 +1810,7 @@
         },
         {
             "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "Rare (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1642,6 +1819,7 @@
         },
         {
             "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1650,6 +1828,7 @@
         },
         {
             "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1658,6 +1837,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1666,6 +1846,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "1 (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1674,6 +1855,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1682,6 +1864,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1690,6 +1873,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1698,6 +1882,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1706,6 +1891,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1714,6 +1900,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1722,6 +1909,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1730,6 +1918,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -1738,6 +1927,7 @@
         },
         {
             "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Legendary (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1746,6 +1936,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1754,6 +1945,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "1 (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1762,6 +1954,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1770,6 +1963,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1778,6 +1972,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1786,6 +1981,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1794,6 +1990,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1802,6 +1999,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1810,6 +2008,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1818,6 +2017,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Epic (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1826,6 +2026,7 @@
         },
         {
             "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1834,6 +2035,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1842,6 +2044,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "1 (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1850,6 +2053,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1858,6 +2062,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -1866,6 +2071,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1874,6 +2080,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1882,6 +2089,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1890,6 +2098,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -1898,6 +2107,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1906,6 +2116,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Epic (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1914,6 +2125,7 @@
         },
         {
             "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -1922,6 +2134,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -1930,6 +2143,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "1",
             "type": "select",
             "enabledByDefault": false,
@@ -1938,6 +2152,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -1946,6 +2161,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "3 (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1954,6 +2170,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -1962,6 +2179,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -1970,6 +2188,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -1978,6 +2197,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Common (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -1986,6 +2206,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -1994,6 +2215,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2002,6 +2224,7 @@
         },
         {
             "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2010,6 +2233,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2018,6 +2242,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "1",
             "type": "select",
             "enabledByDefault": false,
@@ -2026,6 +2251,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "2 (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -2034,6 +2260,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2042,6 +2269,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2050,6 +2278,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2058,6 +2287,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2066,6 +2296,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2074,6 +2305,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2082,6 +2314,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Epic (default)",
             "type": "select",
             "enabledByDefault": true,
@@ -2090,6 +2323,7 @@
         },
         {
             "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2098,6 +2332,7 @@
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2106,6 +2341,7 @@
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2114,6 +2350,7 @@
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2122,6 +2359,7 @@
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2130,6 +2368,7 @@
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2138,6 +2377,7 @@
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2146,6 +2386,7 @@
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2154,6 +2395,7 @@
         },
         {
             "group": "The Muay Thai Duck - Rarity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2162,6 +2404,7 @@
         },
         {
             "group": "The Muay Thai Duck - Rarity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2170,6 +2413,7 @@
         },
         {
             "group": "The Muay Thai Duck - Rarity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2178,6 +2422,7 @@
         },
         {
             "group": "The Muay Thai Duck - Rarity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2186,6 +2431,7 @@
         },
         {
             "group": "The Muay Thai Duck - Rarity",
+            "tooltip": "A rubber duck dressed for a close-quarters fight. When this proximity-activated device detects motion nearby, it detonates a concussive explosive..",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2194,6 +2440,7 @@
         },
         {
             "group": "The Banger Duck - Gear Capacity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2202,6 +2449,7 @@
         },
         {
             "group": "The Banger Duck - Gear Capacity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2210,6 +2458,7 @@
         },
         {
             "group": "The Banger Duck - Gear Capacity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2218,6 +2467,7 @@
         },
         {
             "group": "The Banger Duck - Gear Capacity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2226,6 +2476,7 @@
         },
         {
             "group": "The Banger Duck - Gear Capacity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2234,6 +2485,7 @@
         },
         {
             "group": "The Banger Duck - Gear Capacity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2242,6 +2494,7 @@
         },
         {
             "group": "The Banger Duck - Gear Capacity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2250,6 +2503,7 @@
         },
         {
             "group": "The Banger Duck - Rarity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2258,6 +2512,7 @@
         },
         {
             "group": "The Banger Duck - Rarity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2266,6 +2521,7 @@
         },
         {
             "group": "The Banger Duck - Rarity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2274,6 +2530,7 @@
         },
         {
             "group": "The Banger Duck - Rarity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2282,6 +2539,7 @@
         },
         {
             "group": "The Banger Duck - Rarity",
+            "tooltip": "A rubber duck ready to light up the club. A proximity-activated explosive. When dropped, it plays an irresistibly catchy tune that will draw anyone\u0027s attention.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2290,6 +2548,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2298,6 +2557,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2306,6 +2566,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2314,6 +2575,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2322,6 +2584,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2330,6 +2593,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2338,6 +2602,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Gear Capacity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2346,6 +2611,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2354,6 +2620,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2362,6 +2629,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2370,6 +2638,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2378,6 +2647,7 @@
         },
         {
             "group": "The Vuvuzela Duck - Rarity",
+            "tooltip": "When the remote is squeezed, it emits a famously loud buzzing noise. Press said remote to detonate the duck and cause an EVEN LOUDER noise.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2386,6 +2656,7 @@
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2394,6 +2665,7 @@
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2402,6 +2674,7 @@
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2410,6 +2683,7 @@
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2418,6 +2692,7 @@
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2426,6 +2701,7 @@
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2434,6 +2710,7 @@
         },
         {
             "group": "The Bowtie Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2442,6 +2719,7 @@
         },
         {
             "group": "The Bowtie Duck - Rarity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2450,6 +2728,7 @@
         },
         {
             "group": "The Bowtie Duck - Rarity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2458,6 +2737,7 @@
         },
         {
             "group": "The Bowtie Duck - Rarity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2466,6 +2746,7 @@
         },
         {
             "group": "The Bowtie Duck - Rarity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2474,6 +2755,7 @@
         },
         {
             "group": "The Bowtie Duck - Rarity",
+            "tooltip": "A rubber duck with a charming disposition. When an enthralled target picks it up, they\u0027ll become easily traceable in any crowd.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2482,6 +2764,7 @@
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2490,6 +2773,7 @@
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2498,6 +2782,7 @@
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2506,6 +2791,7 @@
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2514,6 +2800,7 @@
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2522,6 +2809,7 @@
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2530,6 +2818,7 @@
         },
         {
             "group": "The High Performance Duck - Gear Capacity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2538,6 +2827,7 @@
         },
         {
             "group": "The High Performance Duck - Rarity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2546,6 +2836,7 @@
         },
         {
             "group": "The High Performance Duck - Rarity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2554,6 +2845,7 @@
         },
         {
             "group": "The High Performance Duck - Rarity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2562,6 +2854,7 @@
         },
         {
             "group": "The High Performance Duck - Rarity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2570,6 +2863,7 @@
         },
         {
             "group": "The High Performance Duck - Rarity",
+            "tooltip": "A remote-activated explosive device designed to optimize your combat experience. Painted with a fetching go-faster stripe – and just look at those reflections!",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2578,6 +2872,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Gear Capacity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2586,6 +2881,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Gear Capacity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2594,6 +2890,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Gear Capacity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2602,6 +2899,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Gear Capacity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2610,6 +2908,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Gear Capacity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2618,6 +2917,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Gear Capacity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2626,6 +2926,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Gear Capacity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2634,6 +2935,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Rarity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2642,6 +2944,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Rarity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2650,6 +2953,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Rarity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2658,6 +2962,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Rarity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2666,6 +2971,7 @@
         },
         {
             "group": "The See-No-Evil Duck - Rarity",
+            "tooltip": "A rubber duck with an eyepatch. When this proximity-activated device detects motion nearby, it emits a flash of light that briefly blinds enemies.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2674,6 +2980,7 @@
         },
         {
             "group": "The Dank Duck - Gear Capacity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2682,6 +2989,7 @@
         },
         {
             "group": "The Dank Duck - Gear Capacity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2690,6 +2998,7 @@
         },
         {
             "group": "The Dank Duck - Gear Capacity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2698,6 +3007,7 @@
         },
         {
             "group": "The Dank Duck - Gear Capacity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2706,6 +3016,7 @@
         },
         {
             "group": "The Dank Duck - Gear Capacity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2714,6 +3025,7 @@
         },
         {
             "group": "The Dank Duck - Gear Capacity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2722,6 +3034,7 @@
         },
         {
             "group": "The Dank Duck - Gear Capacity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2730,6 +3043,7 @@
         },
         {
             "group": "The Dank Duck - Rarity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2738,6 +3052,7 @@
         },
         {
             "group": "The Dank Duck - Rarity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2746,6 +3061,7 @@
         },
         {
             "group": "The Dank Duck - Rarity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2754,6 +3070,7 @@
         },
         {
             "group": "The Dank Duck - Rarity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2762,6 +3079,7 @@
         },
         {
             "group": "The Dank Duck - Rarity",
+            "tooltip": "A relaxed-looking rubber duck. When this proximity-activated device detects motion nearby, it emits a cloud of sedative gas, putting the target into a deep sleep.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2770,6 +3088,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2778,6 +3097,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2786,6 +3106,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2794,6 +3115,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2802,6 +3124,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2810,6 +3133,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2818,6 +3142,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2826,6 +3151,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2834,6 +3160,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2842,6 +3169,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2850,6 +3178,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2858,6 +3187,7 @@
         },
         {
             "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2866,6 +3196,7 @@
         },
         {
             "group": "The Hijacker Duck - Gear Capacity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2874,6 +3205,7 @@
         },
         {
             "group": "The Hijacker Duck - Gear Capacity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2882,6 +3214,7 @@
         },
         {
             "group": "The Hijacker Duck - Gear Capacity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2890,6 +3223,7 @@
         },
         {
             "group": "The Hijacker Duck - Gear Capacity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2898,6 +3232,7 @@
         },
         {
             "group": "The Hijacker Duck - Gear Capacity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -2906,6 +3241,7 @@
         },
         {
             "group": "The Hijacker Duck - Gear Capacity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -2914,6 +3250,7 @@
         },
         {
             "group": "The Hijacker Duck - Gear Capacity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -2922,6 +3259,7 @@
         },
         {
             "group": "The Hijacker Duck - Rarity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -2930,6 +3268,7 @@
         },
         {
             "group": "The Hijacker Duck - Rarity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -2938,6 +3277,7 @@
         },
         {
             "group": "The Hijacker Duck - Rarity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -2946,6 +3286,7 @@
         },
         {
             "group": "The Hijacker Duck - Rarity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -2954,6 +3295,7 @@
         },
         {
             "group": "The Hijacker Duck - Rarity",
+            "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
@@ -2962,6 +3304,7 @@
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
@@ -2970,6 +3313,7 @@
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
@@ -2978,6 +3322,7 @@
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
@@ -2986,6 +3331,7 @@
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
@@ -2994,6 +3340,7 @@
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
@@ -3002,6 +3349,7 @@
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
@@ -3010,6 +3358,7 @@
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
@@ -3018,6 +3367,7 @@
         },
         {
             "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
@@ -3026,6 +3376,7 @@
         },
         {
             "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
@@ -3034,6 +3385,7 @@
         },
         {
             "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
@@ -3042,6 +3394,7 @@
         },
         {
             "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
@@ -3050,6 +3403,7 @@
         },
         {
             "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
