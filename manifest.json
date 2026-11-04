@@ -64,15 +64,6 @@
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Remote Explosive Rubber Duck Mk II",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "type": "checkbox",
-            "enabledByDefault": true,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck"]
-        },
-        {
-            "group": "Special Ducks",
             "name": "Spawn The Sunset Rubber Duck",
             "tooltip": "An exclusive rubber duck painted in a gorgeous gradient.",
             "type": "checkbox",
@@ -208,21 +199,30 @@
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Hijacker Duck",
-            "tooltip": "Contrary to popular belief, size doesn't always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
-            "type": "checkbox",
-            "enabledByDefault": true,
-            "image": "0_images/008C123AD5C37F2C.png",
-            "contentFolders": ["23_shamrock_duck"]
-        },
-        {
-            "group": "Special Ducks",
             "name": "Spawn The Remote Explosive Duck",
             "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
             "type": "checkbox",
             "enabledByDefault": true,
             "image": "0_images/007D236E26246793.png",
             "contentFolders": ["24_mki_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Remote Explosive Rubber Duck Mk II",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "type": "checkbox",
+            "enabledByDefault": true,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck"]
+        },
+        {
+            "group": "Special Ducks",
+            "name": "Spawn The Hijacker Duck",
+            "tooltip": "Contrary to popular belief, size doesn't always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
+            "type": "checkbox",
+            "enabledByDefault": true,
+            "image": "0_images/008C123AD5C37F2C.png",
+            "contentFolders": ["23_shamrock_duck"]
         },
         {
             "group": "The In-flu-ential Duck - Gear Capacity",
@@ -871,114 +871,6 @@
             "enabledByDefault": false,
             "image": "0_images/000DA87003F63663.png",
             "contentFolders": ["6_proximity_duck_rarity/4"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "0",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_capacity/0"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "1",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_capacity/1"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "2",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_capacity/2"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "3",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_capacity/3"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "4",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_capacity/4"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "5",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_capacity/5"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "6",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_capacity/6"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "No rarity",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_rarity/0"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "Common",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_rarity/1"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "Rare",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_rarity/2"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "Epic",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_rarity/3"]
-        },
-        {
-            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
-            "name": "Legendary",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00A303D60A8F70FF.png",
-            "contentFolders": ["7_mkii_duck_rarity/4"]
         },
         {
             "group": "Sunset Rubber Duck - Gear Capacity",
@@ -1735,600 +1627,6 @@
             "enabledByDefault": false,
             "image": "0_images/008018587E014C1B.png",
             "contentFolders": ["14_purple_duck_rarity/4"]
-        },
-        {
-            "group": "The Pale Duck - Gear Capacity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "0",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/0"]
-        },
-        {
-            "group": "The Pale Duck - Gear Capacity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "1",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/1"]
-        },
-        {
-            "group": "The Pale Duck - Gear Capacity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "2 (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/2"]
-        },
-        {
-            "group": "The Pale Duck - Gear Capacity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "3",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/3"]
-        },
-        {
-            "group": "The Pale Duck - Gear Capacity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "4",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/4"]
-        },
-        {
-            "group": "The Pale Duck - Gear Capacity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "5",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/5"]
-        },
-        {
-            "group": "The Pale Duck - Gear Capacity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "6",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/6"]
-        },
-        {
-            "group": "The Pale Duck - Rarity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "Common",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/1"]
-        },
-        {
-            "group": "The Pale Duck - Rarity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "Rare (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/2"]
-        },
-        {
-            "group": "The Pale Duck - Rarity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "Epic",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/3"]
-        },
-        {
-            "group": "The Pale Duck - Rarity",
-            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
-            "name": "Legendary",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/4"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "0",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/0"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "1 (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/1"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "2",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/2"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "3",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/3"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "4",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/4"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "5",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/5"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "6",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/6"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Common",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/1"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Rare",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/2"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Epic",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/3"]
-        },
-        {
-            "group": "Remote Explosive Devil Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Legendary (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00B973321FB91785.png",
-            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/4"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "0",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/0"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "1 (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/1"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "2",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/2"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "3",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/3"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "4",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/4"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "5",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/5"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "6",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/6"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Common",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/1"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Rare",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/2"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Epic (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/3"]
-        },
-        {
-            "group": "Remote Concussion Collectors Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Legendary",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00CF79E6C4DF82A4.png",
-            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/4"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "0",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/0"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "1 (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/1"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "2",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/2"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "3",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/3"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "4",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/4"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "5",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/5"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Gear Capacity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "6",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/6"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Common",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/1"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Rare",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/2"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Epic (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/3"]
-        },
-        {
-            "group": "Remote Concussion Rubber Duck - Rarity",
-            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Legendary",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/008A407642E2CB48.png",
-            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/4"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Gear Capacity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "0",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/0"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Gear Capacity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "1",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/1"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Gear Capacity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "2",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/2"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Gear Capacity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "3 (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/3"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Gear Capacity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "4",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/4"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Gear Capacity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "5",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/5"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Gear Capacity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "6",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/6"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Rarity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Common (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/1"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Rarity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Rare",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/2"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Rarity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Epic",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/3"]
-        },
-        {
-            "group": "Proximity Explosive Duck - Rarity ",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Legendary",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/4"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "0",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/0"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "1",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/1"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "2 (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/2"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "3",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/3"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "4",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/4"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "5",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/5"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "6",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/6"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Common",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/1"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Rare",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/2"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Epic (default)",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/3"]
-        },
-        {
-            "group": "Remote Explosive Classic Rubber Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Legendary",
-            "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/003F68C6F8F9AAFC.png",
-            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/4"]
         },
         {
             "group": "The Muay Thai Duck - Gear Capacity",
@@ -3195,6 +2493,222 @@
             "contentFolders": ["22_proximity_duck_mkii_rarity/4"]
         },
         {
+            "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_capacity/0"]
+        },
+        {
+            "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_capacity/1"]
+        },
+        {
+            "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_capacity/2"]
+        },
+        {
+            "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Explosive Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_capacity/6"]
+        },
+        {
+            "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_rarity/0"]
+        },
+        {
+            "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_rarity/1"]
+        },
+        {
+            "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_rarity/2"]
+        },
+        {
+            "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_rarity/3"]
+        },
+        {
+            "group": "Remote Explosive Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/007D236E26246793.png",
+            "contentFolders": ["24_mki_duck_rarity/4"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/0"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/1"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/2"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_capacity/6"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "No rarity",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_rarity/0"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_rarity/1"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_rarity/2"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_rarity/3"]
+        },
+        {
+            "group": "Remote Explosive Rubber Duck Mk II - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00A303D60A8F70FF.png",
+            "contentFolders": ["7_mkii_duck_rarity/4"]
+        },
+        {
             "group": "The Hijacker Duck - Gear Capacity",
             "tooltip": "Contrary to popular belief, size doesn\u0027t always matter. Though this duck may be small enough to avoid perception, when remotely activated, it emits a powerful EMP charge.",
             "name": "0",
@@ -3303,112 +2817,598 @@
             "contentFolders": ["23_shamrock_duck_rarity/4"]
         },
         {
-            "group": "Remote Explosive Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_capacity/0"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/0"]
         },
         {
-            "group": "Remote Explosive Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "1",
             "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_capacity/1"]
-        },
-        {
-            "group": "Remote Explosive Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "2",
-            "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_capacity/2"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/1"]
         },
         {
-            "group": "Remote Explosive Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
+            "name": "2 (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/2"]
+        },
+        {
+            "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_capacity/3"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/3"]
         },
         {
-            "group": "Remote Explosive Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_capacity/4"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/4"]
         },
         {
-            "group": "Remote Explosive Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_capacity/5"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/5"]
         },
         {
-            "group": "Remote Explosive Duck - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Gear Capacity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_capacity/6"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_capacity/6"]
         },
         {
-            "group": "Remote Explosive Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "No rarity",
-            "type": "select",
-            "enabledByDefault": true,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_rarity/0"]
-        },
-        {
-            "group": "Remote Explosive Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_rarity/1"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/1"]
         },
         {
-            "group": "Remote Explosive Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
-            "name": "Rare",
+            "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
+            "name": "Rare (default)",
             "type": "select",
-            "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_rarity/2"]
+            "enabledByDefault": true,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/2"]
         },
         {
-            "group": "Remote Explosive Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_rarity/3"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/3"]
         },
         {
-            "group": "Remote Explosive Duck - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "group": "The Pale Duck - Rarity",
+            "tooltip": "A medium explosive device disguised as a \"Pale Duck\" brand rubber duck. Detonated remotely.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/007D236E26246793.png",
-            "contentFolders": ["24_mki_duck_rarity/4"]
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/1_pale_duck_rarity/4"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/0"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "1 (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/1"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/2"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_capacity/6"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/1"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/2"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/3"]
+        },
+        {
+            "group": "Remote Explosive Devil Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a devil rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Legendary (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00B973321FB91785.png",
+            "contentFolders": ["0_default_ducks/2_devil_duck_rarity/4"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/0"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "1 (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/1"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/2"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_capacity/6"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/1"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/2"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Epic (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/3"]
+        },
+        {
+            "group": "Remote Concussion Collectors Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00CF79E6C4DF82A4.png",
+            "contentFolders": ["0_default_ducks/3_concussion_collectors_duck_rarity/4"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/0"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "1 (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/1"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/2"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Gear Capacity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_capacity/6"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/1"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/2"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Epic (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/3"]
+        },
+        {
+            "group": "Remote Concussion Rubber Duck - Rarity",
+            "tooltip": "A medium concussion device designed to resemble a rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/008A407642E2CB48.png",
+            "contentFolders": ["0_default_ducks/4_concussion_duck_rarity/4"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/0"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/1"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "2",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/2"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "3 (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/3"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/4"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/5"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Gear Capacity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_capacity/6"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Common (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/1"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/2"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Epic",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/3"]
+        },
+        {
+            "group": "Proximity Explosive Duck - Rarity ",
+            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/00C76D66FC8ED027.png",
+            "contentFolders": ["0_default_ducks/5_proximity_duck_rarity/4"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "0",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/0"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "1",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/1"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "2 (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/2"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "3",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/3"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "4",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/4"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "5",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/5"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Gear Capacity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "6",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_capacity/6"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Common",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/1"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Rare",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/2"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Epic (default)",
+            "type": "select",
+            "enabledByDefault": true,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/3"]
+        },
+        {
+            "group": "Remote Explosive Classic Rubber Duck - Rarity",
+            "tooltip": "A medium explosive device designed to resemble a classic rubber duck. Detonated remotely. Exercise caution when placing. Will attract casual attention if spotted.",
+            "name": "Legendary",
+            "type": "select",
+            "enabledByDefault": false,
+            "image": "0_images/003F68C6F8F9AAFC.png",
+            "contentFolders": ["0_default_ducks/6_classic_duck_rarity/4"]
         }
     ]	
 }
