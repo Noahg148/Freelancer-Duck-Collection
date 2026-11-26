@@ -1,5 +1,5 @@
 {
-	"version": "3.1.0",
+	"version": "3.2.0",
 	"id": "Noahg148.FreelancerDuckCollection",
 	"name": "Freelancer Duck Collection",
 	"description": "Spawns ducks on the supplier desk.",
@@ -190,12 +190,12 @@
         },
         {
             "group": "Special Ducks",
-            "name": "Spawn The Proximity Explosive Rubber Duck Mk II",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "name": "Spawn The Rock Royalty Duck",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "type": "checkbox",
             "enabledByDefault": true,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck"]
         },
         {
             "group": "Special Ducks",
@@ -2385,112 +2385,112 @@
             "contentFolders": ["21_greentini_duck_rarity/4"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "0",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_capacity/0"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_capacity/0"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "1",
             "type": "select",
             "enabledByDefault": true,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_capacity/1"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_capacity/1"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "2",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_capacity/2"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_capacity/2"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "3",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_capacity/3"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_capacity/3"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "4",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_capacity/4"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_capacity/4"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "5",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_capacity/5"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_capacity/5"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Gear Capacity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Gear Capacity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "6",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_capacity/6"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_capacity/6"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Rarity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "No rarity",
             "type": "select",
             "enabledByDefault": true,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_rarity/0"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_rarity/0"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Rarity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "Common",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_rarity/1"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_rarity/1"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Rarity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "Rare",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_rarity/2"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_rarity/2"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Rarity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "Epic",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_rarity/3"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_rarity/3"]
         },
         {
-            "group": "Proximity Explosive Rubber Duck Mk II - Rarity",
-            "tooltip": "A medium explosive device designed to resemble a rubber duck. Detonated by proximity. Exercise caution when placing. Will attract casual attention if spotted. It also has the signature Mk II look.",
+            "group": "The Rock Royalty Duck - Rarity",
+            "tooltip": "A rubber duck with a regal presence and a pair of flashy sunglasses. When this proximity-activated device detects motion nearby, it detonates an explosive.",
             "name": "Legendary",
             "type": "select",
             "enabledByDefault": false,
-            "image": "0_images/00E6F9B282037C21.png",
-            "contentFolders": ["22_proximity_duck_mkii_rarity/4"]
+            "image": "0_images/005E382E3D01C908.png",
+            "contentFolders": ["22_grog_duck_rarity/4"]
         },
         {
             "group": "Remote Explosive Duck - Gear Capacity",
